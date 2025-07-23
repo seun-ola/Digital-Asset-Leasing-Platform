@@ -91,6 +91,7 @@ Asset holders can remove listings when no active lease exists.
 - **Deposit**: 20% of lease cost (returned when asset is returned)
 - **Total Payment**: `lease-cost + deposit`
 
+
 ### Revenue Distribution
 - **Asset Holder**: 95% of lease cost
 - **Platform**: 5% service fee
